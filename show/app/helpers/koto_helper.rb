@@ -1,0 +1,2 @@
+module KotoHelper
+end
